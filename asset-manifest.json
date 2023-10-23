@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word_counter/static/css/main.6d918a76.css",
+    "main.js": "/word_counter/static/js/main.ab6fbffa.js",
+    "index.html": "/word_counter/index.html",
+    "main.6d918a76.css.map": "/word_counter/static/css/main.6d918a76.css.map",
+    "main.ab6fbffa.js.map": "/word_counter/static/js/main.ab6fbffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d918a76.css",
+    "static/js/main.ab6fbffa.js"
+  ]
+}
